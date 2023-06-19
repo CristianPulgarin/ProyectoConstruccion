@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\ProyectoConstruccion\ProyectoConstruccion\bin\Debug\ProyectoConstruccion.exe.config
+C:\Users\Usuario\source\repos\ProyectoConstruccion\ProyectoConstruccion\bin\Debug\ProyectoConstruccion.exe
+C:\Users\Usuario\source\repos\ProyectoConstruccion\ProyectoConstruccion\bin\Debug\ProyectoConstruccion.pdb
+C:\Users\Usuario\source\repos\ProyectoConstruccion\ProyectoConstruccion\obj\Debug\ProyectoConstruccion.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ProyectoConstruccion\ProyectoConstruccion\obj\Debug\ProyectoConstruccion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\ProyectoConstruccion\ProyectoConstruccion\obj\Debug\ProyectoConstruccion.Form1.resources
+C:\Users\Usuario\source\repos\ProyectoConstruccion\ProyectoConstruccion\obj\Debug\ProyectoConstruccion.Properties.Resources.resources
+C:\Users\Usuario\source\repos\ProyectoConstruccion\ProyectoConstruccion\obj\Debug\ProyectoConstruccion.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ProyectoConstruccion\ProyectoConstruccion\obj\Debug\ProyectoConstruccion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ProyectoConstruccion\ProyectoConstruccion\obj\Debug\ProyectoConstruccion.exe
+C:\Users\Usuario\source\repos\ProyectoConstruccion\ProyectoConstruccion\obj\Debug\ProyectoConstruccion.pdb
